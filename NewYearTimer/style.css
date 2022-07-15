@@ -34,6 +34,7 @@ h1{
 .Countdown{
     display:flex;
     transform: scale(2);
+    margin-left: auto;
 }
 
 .time{
@@ -49,7 +50,7 @@ h1{
     font-weight: bold;
     font-size: 36px;
     line-height: 2;
-    margin: 0 auto;
+    margin: 0 0 5px;
 }
 
 @media screen and (max-width:500px){
