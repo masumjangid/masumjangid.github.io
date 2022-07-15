@@ -10,7 +10,7 @@ body{
     background-repeat:no-repeat;
     background-size:cover;
     background-position: center center;
-    height: 100vh auto;
+    height: 100vh;
     font-family: "Poppins", sans-serif;
     color: whitesmoke;
     display: flex;
