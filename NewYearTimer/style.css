@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 100vh;
+    height: 120vh;
     font-family: "Poppins", sans-serif;
     color: whitesmoke;
     display: flex;
@@ -34,7 +34,6 @@ h1{
 .Countdown{
     display:flex;
     transform: scale(2);
-    margin-left: auto;
 }
 
 .time{
