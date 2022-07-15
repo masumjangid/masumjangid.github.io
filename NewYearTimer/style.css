@@ -33,6 +33,7 @@ h1{
 .Countdown{
     display:flex;
     transform: scale(2);
+    max-width: 60rem;
 }
 
 .time{
