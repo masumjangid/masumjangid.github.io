@@ -19,7 +19,7 @@ body{
     justify-content: center;
     text-align: center;
     margin:auto;
-    overflow-wrap: normal;
+    overflow:visible;
 }
 
 h1{
